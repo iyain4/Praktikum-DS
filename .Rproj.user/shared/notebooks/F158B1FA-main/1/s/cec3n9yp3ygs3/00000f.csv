@@ -1,0 +1,98 @@
+"0","library(shiny)"
+"2","Warning: package ‘shiny’ was built under R version 4.2.2"
+"0","library(here)"
+"2","Warning: package ‘here’ was built under R version 4.2.2"
+"2","here() starts at D:/Kuliah/Tugas/Semester 5/Prak Data/new_ds_project
+"
+"0","library(vroom)"
+"2","Warning: package ‘vroom’ was built under R version 4.2.2"
+"0","library(dplyr)"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","library(ggplot2)"
+"2","Warning: package ‘ggplot2’ was built under R version 4.2.2"
+"0","library(plotly)"
+"2","Warning: package ‘plotly’ was built under R version 4.2.2"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2","
+Attaching package: ‘plotly’
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+"
+"2","The following object is masked from ‘package:stats’:
+
+    filter
+
+"
+"2","The following object is masked from ‘package:graphics’:
+
+    layout
+
+"
+"0","library(syuzhet)"
+"2","Warning: package ‘syuzhet’ was built under R version 4.2.2"
+"0","library(twitteR)"
+"2","Warning: package ‘twitteR’ was built under R version 4.2.2"
+"2","
+Attaching package: ‘twitteR’
+
+"
+"2","The following objects are masked from ‘package:dplyr’:
+
+    id, location
+
+"
+"0","library(ROAuth)"
+"2","Warning: package ‘ROAuth’ was built under R version 4.2.2"
+"0","library(tm)"
+"2","Warning: package ‘tm’ was built under R version 4.2.2"
+"2","Loading required package: NLP
+"
+"2","
+Attaching package: ‘NLP’
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    annotate
+
+"
+"0","library(rtweet)"
+"2","Warning: package ‘rtweet’ was built under R version 4.2.2"
+"2","
+Attaching package: ‘rtweet’
+
+"
+"2","The following object is masked from ‘package:twitteR’:
+
+    lookup_statuses
+
+"
+"2","The following object is masked from ‘package:syuzhet’:
+
+    get_tokens
+
+"
+"0","library(wordcloud)"
+"2","Warning: package ‘wordcloud’ was built under R version 4.2.2"
+"2","Loading required package: RColorBrewer
+"
